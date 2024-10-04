@@ -1,0 +1,4 @@
+fmp12 Demodatei:
+user/password: fmk2024
+
+Unter Windows bitte die Demo mit FileMaker ab Version 19.3 einsetzen.
